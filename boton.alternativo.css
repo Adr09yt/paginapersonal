@@ -1,0 +1,13 @@
+.boton.alternativo { 
+    background-color: transparent;
+    padding: 10px 20px;
+    color: #FFF000!important;
+    border: 2px solid #00c69f;
+    border-radius: 7px;
+}
+ 
+.boton.alternativo:hover {
+    background-color: #00A2D6!important;
+    color: #D0D0D0!important;
+    text-decoration: none;
+}
